@@ -1,6 +1,10 @@
 <h1 align="center">
   <strong>💻 Ezequiel 25:17 Pulp Fiction</strong>
 </h1> 
+<p align="center">
+Aplicação web com a finalidade de testar a biblioteca react-typist.
+  <img src="https://i.imgur.com/3FNKGXA.png"/>
+</p> 
 
 
 ## 👩‍🏫 Como rodar localmente
