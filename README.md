@@ -21,4 +21,4 @@ Aplicação web com a finalidade de testar a biblioteca react-typist.
 
 ## 📜 License
 
-This project is licensed under the GNU GPL V3 - see the [LICENSE.md](https://github.com/Gustavoohrq/flipflix/blob/master/LICENCE.MD) file for details
+This project is licensed under the GNU GPL V3 - see the [LICENSE.md](https://github.com/Gustavoohrq/ezequiel-pulpfiction/blob/master/LICENSE.md) file for details
