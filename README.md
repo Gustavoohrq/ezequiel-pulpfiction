@@ -11,7 +11,7 @@ Aplicação web com a finalidade de testar a biblioteca react-typist.
 ## 👩‍🏫 Como rodar localmente
 
 - `git clone https://github.com/Gustavoohrq/ezequiel-pulpfiction.git`;
-- `cd flipflix`;
+- `cd ezequiel-pulpfiction`;
 - `npm install`;
 - `yarn start`;
 - Acessar `localhost:3000`;
